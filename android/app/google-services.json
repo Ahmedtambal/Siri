@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994327078168",
+    "project_id": "siri-d3994",
+    "storage_bucket": "siri-d3994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994327078168:android:5cf8d931c39ed455caea6d",
+        "android_client_info": {
+          "package_name": "com.example.siri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994327078168-9ie0uc7ttpr4tnhpubiihceg4d9vqsm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_Kb4vYbYnGYz_2gytTFPyQ2ctS5e474"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994327078168-9ie0uc7ttpr4tnhpubiihceg4d9vqsm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
